@@ -8,21 +8,28 @@
 ---
 
 ## 🛠️ Tecnologias & Aprendizados
-No momento, estou explorando o universo da informática. Meu objetivo é encher essa barra aqui embaixo com várias habilidades:
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+      <img src="https://techicons.dev/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
+      <img src="https://techicons.dev/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://techicons.dev/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <span style="font-size: 40px;">✍️</span>
+      <br>Portugol
     </td>
   </tr>
 </table>
