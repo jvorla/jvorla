@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, mundo! Eu sou o João Victor 👋
 
-<!--
-**jvorla/jvorla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre Mim
+* 🎂 **Idade:** 15 anos
+* 🚀 **Foco Atual:** Aprendendo Informática e dando os primeiros passos no mundo da tecnologia!
+* 🎮 **Nas horas vagas:** Apaixonado por jogos de vídeo game. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Aprendizados
+No momento, estou explorando o universo da informática. Meu objetivo é encher essa barra aqui embaixo com várias habilidades:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎮 Status de Gamer
+```json
+{
+  "status": "Online",
+  "main_hobby": "Jogar videogame",
+  "current_quest": "Aprender informática e dominar a programação"
+}
